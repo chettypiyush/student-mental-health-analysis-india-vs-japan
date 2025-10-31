@@ -50,7 +50,7 @@ The notebook visualizes:
 
 ## 🚀 Open in Google Colab
 Click below to view or run the notebook directly:  
-👉 [**Open in Google Colab**](https://colab.research.google.com/github/ChettryPiyush/student-mental-health-analysis/blob/main/A_Comparative_Data_Analysis_India_vs_Japan.ipynb)
+👉 [**Open in Google Colab**][![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chettypiyush/student-mental-health-analysis-india-vs-japan/blob/main/A_Comparative_Data_Analysis_India_vs_Japan.ipynb)
 
 ---
 
